@@ -10,7 +10,7 @@ Final Case Study | Network Automation and Programmability
 
 5. Submit the link of your GitHub repository
 
-Eugene Christopher Lee
+Designed by: Eugene Christopher Lee
 
 <h3>NETWORK AUTOMATION</h3>
 
